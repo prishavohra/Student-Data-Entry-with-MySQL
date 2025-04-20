@@ -1,6 +1,6 @@
 
-// Name: Nidhi Supe
-// PRN no: 23070126080
+// Name: Vedant Patil
+// PRN no: 23070126096
 // Batch: AIML B1 (2023-2027)
 
 import java.util.Scanner;
